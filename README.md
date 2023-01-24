@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+This+is+Kiran+Shetty+🔥;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+This+is+Kiran+Shetty+🔥;)](https://git.io/typing-svg)
 
 
 {
