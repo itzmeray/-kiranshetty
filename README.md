@@ -1,13 +1,13 @@
 # kiranshetty
 
 {
-  "Name": "Prajwal Madhav",
-  "Age": "21",
+  "Name": "Kiran shetty",
+  "Age": "19",
   "Country": "India",
   "City": "Bengaluru",
   "Language": {
     "speaking": ["English", "Kannada", "Hindi"],
     "programming": ["JavaScript", "TypeScript", "React", "Python"],
   },
-  "Hobbies" : ["Programming", "Computers", "Gaming", "Partying", "Cars"],
+  "Hobbies" : ["Programming", "Computers", "Gaming", "Partying","astrology", "Cars"],
 }
