@@ -1,3 +1,5 @@
+[//]: # (custom_meta_data)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+This+is+Kiran+Shetty+🔥;)](https://git.io/typing-svg)
 
 
@@ -12,4 +14,5 @@
   },
   "Hobbies" : ["Programming", "Computers", "Gaming", "Partying", "Cars"],
 }
-[//]: # (custom_meta_data)
+
+
