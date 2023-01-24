@@ -5,7 +5,7 @@
   "Name": "Kiran shetty",
   "Age": "19",
   "Country": "India",
-  "City": "Bengaluru",
+  "City": "KOPPAL",
   "Language": {
     "speaking": ["English", "Kannada", "Hindi"],
     "programming": ["JavaScript", "TypeScript", "React", "Python"],
